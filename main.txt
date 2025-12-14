@@ -1,2 +1,4 @@
 Esta línea fue MODIFICADA para el feature 1.
-Agregando una nueva funcionalidad.
+Esta es la primera línea del archivo.
+Otra linea para Feature 2.
+
